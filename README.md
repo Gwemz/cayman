@@ -63,7 +63,13 @@ git push
 ## 前端相关资源
 
 #### 设计网站 
-[uigreat](http://www.uigreat.com/) [花瓣网](http://huaban.com/)  [dribbble](https://dribbble.com/)  [behance](https://www.behance.net/) [pinterest](https://www.pinterest.com/) [站酷](https://www.zcool.com.cn/) [FWA](https://thefwa.com/)
+* [uigreat](http://www.uigreat.com/) 
+* [花瓣网](http://huaban.com/)  
+* [dribbble](https://dribbble.com/)  
+* [behance](https://www.behance.net/) 
+* [pinterest](https://www.pinterest.com/) 
+* [站酷](https://www.zcool.com.cn/) 
+* [FWA](https://thefwa.com/)
 
 有朝一日我们自己构建网站的时候，可以来这儿找找素材，让我们写的页面更为美观~
 
@@ -71,11 +77,11 @@ git push
 
 如果要学习html/css/js...的时候，可以先去[菜鸟教程](http://www.runoob.com/) 过一遍其中的知识点，当然也可去网易云课堂、慕课网、腾讯课堂找一找相关的视频教程。有时候时候看文档不思其解的时候，可以去看看视频。看文档学习速度比较快，而看视频更为直观，易于发现问题，二者各有优势。
 
-[印记中文](https://www.docschina.org/) ：该网站链接了几乎所有前端主流开发技术的中文文档，如果找不到文档了，可以来这儿搜搜
+[印记中文](https://www.docschina.org/)  该网站链接了几乎所有前端主流开发技术的中文文档，如果找不到文档了，可以来这儿搜搜
 
-(vue项目练习项目)(https://github.com/vuejs/awesome-vue)
+* (vue项目练习项目) (https://github.com/vuejs/awesome-vue)
 
-(react练习项目)(https://github.com/enaqx/awesome-react)
+* (react练习项目) (https://github.com/enaqx/awesome-react)
 
 一般找一些框架资源时，可去github上搜索：awesome + 对应框架名 找star数最多的仓库，会是关于这个框架收集的一些好的练习项目。
 
@@ -85,17 +91,27 @@ git push
 
 #### 代码托管网站
 
-[github](https://github.com) 国际开源网站，几乎所有的开源项目、框架都可以在其上找到；前端也可以利用其做个人项目的积累，github pages提供页面访问服务，我们发布上去的静态页面可以直接在线访问；我的个人博客，大多数的兴趣练习内容也都放在github上  https://github.com/gwemz  github提供自定义域名，例如：http://gwem.tk  在项目目录中新建一个CNAME文件，将域名解析到改仓库的ip上，你便拥有了一个对外的网站，虽然可能没有数据库，但某些时候也是非常方便。 某些时候在面试的时候，也会看github上的提交记录，看看有没有开源的优秀代码
+> [github](https://github.com) 
 
-[coding](https://coding.net/) 国内代码托管商，可创建私有仓库，不过比较少，如果要升级，需要开通会员。公开仓库可随意创建。访问地址在微信中会经过一个coding的中间页，不太友好。
+国际开源网站，几乎所有的开源项目、框架都可以在其上找到；前端也可以利用其做个人项目的积累，github pages提供页面访问服务，我们发布上去的静态页面可以直接在线访问；我的个人博客，大多数的兴趣练习内容也都放在github上  (https://github.com/gwemz)  github提供自定义域名，例如：http://gwem.tk  在项目目录中新建一个CNAME文件，将域名解析到该仓库的ip上，你便拥有了一个对外的网站，虽然可能没有数据库，但某些时候也是非常方便。 某些时候在面试的时候，也会看github上的提交记录，看看有没有开源的优秀代码
 
-[码云gitee](https://gitee.com/) 国内代码托管网站，个人用户可创建至多1000多私有仓库，可对外部署访问。域名在微信中可访问，不会被转掉，推荐私有仓库可选择它。
+> [coding](https://coding.net/) 
 
-[语雀](https://www.yuque.com/) 语雀并不是一个代码托管的网站，它类似于印象笔记，不过借鉴了github的产品思想，是一个编辑保存文档的轻量产品，原为阿里内部系统，后对外开放 可记录一些好的点子，或者是心得体会
+国内代码托管商，可创建私有仓库，不过比较少，如果要升级，需要开通会员。公开仓库可随意创建。访问地址在微信中会经过一个coding的中间页，不太友好。
+
+> [码云gitee](https://gitee.com/) 
+
+国内代码托管网站，个人用户可创建至多1000多私有仓库，可对外部署访问。域名在微信中可访问，不会被转掉，推荐私有仓库可选择它。
+
+> [语雀](https://www.yuque.com/) 
+
+语雀并不是一个代码托管的网站，它类似于印象笔记，不过借鉴了github的产品思想，是一个编辑保存文档的轻量产品，原为阿里内部系统，后对外开放 可记录一些好的点子，或者是心得体会
 
 #### IDE（编辑器）
 
-[vscode](https://code.visualstudio.com/) 免费软件，由微软开发。现今最好用的编辑器，没有之一，启动速度快，内置git版本记录，丰富的插件库 
+> [vscode](https://code.visualstudio.com/) 
+
+免费软件，由微软开发。现今最好用的编辑器，没有之一，启动速度快，内置git版本记录，丰富的插件库 
 
 在之前我们可能还会使用sublime、webstorm、atom等等一系列编辑器，但自从vscode出现之后，都卸载了...
 
@@ -105,33 +121,54 @@ chrome 浏览器调试工具，主流的浏览器厂商主要是IE、Chrome、Fi
 
 #### 常去的网站
 
-对我而言，常去的社区主要有 [掘金](https://juejin.im/) [segmentfault](https://segmentfault.com/) [github](github.com)，更多感兴趣的可去[web前端导航](http://www.alloyteam.com/nav/) 查看推荐
+对我而言，常去的社区主要有 
+* [掘金](https://juejin.im/) 
+* [segmentfault](https://segmentfault.com/) 
+* [github](github.com)
+* 更多感兴趣的可去[web前端导航](http://www.alloyteam.com/nav/) 查看推荐
 
 #### 字体图标库
 
-[阿里巴巴矢量图标库](http://iconfont.cn/)  可以直接将图标以代码的方式引入，减少开发空间 当然在个人项目，可以找自己感兴趣的图标
+> [阿里巴巴矢量图标库](http://iconfont.cn/)  
+
+可以直接将图标以代码的方式引入，减少开发空间 当然在个人项目，可以找自己感兴趣的图标
 
 #### 图片压缩网站
 
-[tinypng](https://tinypng.com/)  嗯，没错，就是这只贱贱的熊猫
+> [tinypng](https://tinypng.com/)  
+
+嗯，没错，就是这只贱贱的熊猫
 
 #### UI库
 
-[bootstrap](http://www.bootcss.com/) 最早的UI库，自适应，快速构建页面，不需要考虑样式
+* [bootstrap](http://www.bootcss.com/) 
 
-[bulma](https://bulma.io)  bootstrap如果看腻了，可以用这个UI库看看
+    最早的UI库，自适应，快速构建页面，不需要考虑样式
 
-[ant-design](https://ant.design/index-cn) 由阿里推出，主要在react项目中使用
+* [bulma](https://bulma.io)  
 
-[element](http://element-cn.eleme.io/#/zh-CN) 饿了么推出，主要在vue项目中使用
+    bootstrap如果看腻了，可以用这个UI库看看
 
-[cube-ui](https://didi.github.io/cube-ui/) 由滴滴开发，主要在vue项目中使用
+* [ant-design](https://ant.design/index-cn) 
+
+    由阿里推出，主要在react项目中使用
+
+* [element](http://element-cn.eleme.io/#/zh-CN) 
+
+    饿了么推出，主要在vue项目中使用
+
+* [cube-ui](https://didi.github.io/cube-ui/) 
+
+    由滴滴开发，主要在vue项目中使用
 
 #### 前端书籍推荐
 
-`JavaScript权威指南`  `JavaScript高级程序设计`   ` JavaScript设计模式与开发实践`  `HTTP权威指南`
+* JavaScript权威指南  
+* JavaScript高级程序设计   
+* JavaScript设计模式与开发实践  
+* HTTP权威指南
 
-大部分都是关于javascript，因为这门语言在前端开发中所占的权重最终，虽然本人看的比较少，但如果有时间一定去看看。
+大部分都是关于javascript，因为这门语言在前端开发中所占的权重最终，虽然本人看的比较少，但也强烈推荐。
 
 #### 前端公众号
 
@@ -139,13 +176,19 @@ chrome 浏览器调试工具，主流的浏览器厂商主要是IE、Chrome、Fi
 
 #### 前端大牛（china）
 
-[尤雨溪](https://github.com/yyx990803)  vue框架的作者
+* [尤雨溪](https://github.com/yyx990803)  
 
-[阮一峰](https://github.com/ruanyf) 可以看看他的github,全年不断更是什么感觉，密密麻麻，翻译了《ECMAScript 6入门 、flex布局教程等等，讲解非常详细，目前国内github排名第一，[语雀地址](https://www.yuque.com/ruanyf)  [官网](http://www.ruanyifeng.com/)
+    vue框架的作者
 
-[phodal](https://github.com/phodal) 大牛一枚，写框架、翻译书、github社区非常活跃，不过对我而言，最为羡慕的便是github上的签名“待我代码编成，娶你为妻可好” 浪漫的一批。
+* [阮一峰](https://github.com/ruanyf) 
 
-[gihub中国开发者排名](http://www.githubrank.com/)
+    可以看看他的github,全年不断更是什么感觉，密密麻麻，翻译了《ECMAScript 6入门 、flex布局教程等等，讲解非常详细，目前国内github排名第一，[语雀地址](https://www.yuque.com/ruanyf)  [个人网站官网](http://www.ruanyifeng.com/)
+
+* [phodal](https://github.com/phodal) 
+
+    大牛一枚，写框架、翻译书、github社区非常活跃，不过对我而言，最为羡慕的便是github上的签名“待我代码编成，娶你为妻可好” 浪漫到不行。
+
+* [gihub中国开发者排名](http://www.githubrank.com/)
 
 #### 关于问题搜索
 
@@ -213,4 +256,4 @@ javascript  处理页面动画、数据交互、业务逻辑等等  目前最为
 
 ## 结语
 
-在最开始写这一篇总结的时候，比较懵，好像做了这么久的前端，也并没有认真去想到底用到了什么？有这一个契机，让我有机会去想想这个问题，对我也是一个总结，一次学习。7000多字，好像很久没写这么多了。(用markdown语法书写，对开发者而言，简洁、方便的文档编写语言)
+在最开始写这一篇总结的时候，比较懵，好像做了这么久的前端，也并没有认真去想到底用到了什么？有这一个契机，让我有机会去想想这个问题，对我也是一个总结、一次学习。7000多字，好像很久没写这么多了。(日常写文档基本上用markdown语法书写，对开发者而言，简洁、方便的文档编写语言)
