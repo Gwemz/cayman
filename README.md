@@ -91,27 +91,27 @@ git push
 
 #### 代码托管网站
 
-> [github](https://github.com) 
+* [github](https://github.com) 
 
 国际开源网站，几乎所有的开源项目、框架都可以在其上找到；前端也可以利用其做个人项目的积累，github pages提供页面访问服务，我们发布上去的静态页面可以直接在线访问；我的个人博客，大多数的兴趣练习内容也都放在github上  (https://github.com/gwemz)  github提供自定义域名，例如：http://gwem.tk  在项目目录中新建一个CNAME文件，将域名解析到该仓库的ip上，你便拥有了一个对外的网站，虽然可能没有数据库，但某些时候也是非常方便。 某些时候在面试的时候，也会看github上的提交记录，看看有没有开源的优秀代码
 
-> [coding](https://coding.net/) 
+* [coding](https://coding.net/) 
 
 国内代码托管商，可创建私有仓库，不过比较少，如果要升级，需要开通会员。公开仓库可随意创建。访问地址在微信中会经过一个coding的中间页，不太友好。
 
-> [码云gitee](https://gitee.com/) 
+* [码云gitee](https://gitee.com/) 
 
 国内代码托管网站，个人用户可创建至多1000多私有仓库，可对外部署访问。域名在微信中可访问，不会被转掉，推荐私有仓库可选择它。
 
-> [语雀](https://www.yuque.com/) 
+* [语雀](https://www.yuque.com/) 
 
 语雀并不是一个代码托管的网站，它类似于印象笔记，不过借鉴了github的产品思想，是一个编辑保存文档的轻量产品，原为阿里内部系统，后对外开放 可记录一些好的点子，或者是心得体会
 
 #### IDE（编辑器）
 
-> [vscode](https://code.visualstudio.com/) 
+* [vscode](https://code.visualstudio.com/) 
 
-免费软件，由微软开发。现今最好用的编辑器，没有之一，启动速度快，内置git版本记录，丰富的插件库 
+    免费软件，由微软开发。现今最好用的编辑器，没有之一，启动速度快，内置git版本记录，丰富的插件库 
 
 在之前我们可能还会使用sublime、webstorm、atom等等一系列编辑器，但自从vscode出现之后，都卸载了...
 
