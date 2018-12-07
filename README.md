@@ -63,12 +63,12 @@ git push
 ## 前端相关资源
 
 #### 设计网站 
-* [uigreat](http://www.uigreat.com/) 
-* [花瓣网](http://huaban.com/)  
-* [dribbble](https://dribbble.com/)  
-* [behance](https://www.behance.net/) 
-* [pinterest](https://www.pinterest.com/) 
-* [站酷](https://www.zcool.com.cn/) 
+* [uigreat](http://www.uigreat.com/)
+* [花瓣网](http://huaban.com/)
+* [dribbble](https://dribbble.com/)
+* [behance](https://www.behance.net/)
+* [pinterest](https://www.pinterest.com/)
+* [站酷](https://www.zcool.com.cn/)
 * [FWA](https://thefwa.com/)
 
 有朝一日我们自己构建网站的时候，可以来这儿找找素材，让我们写的页面更为美观~
@@ -77,35 +77,39 @@ git push
 
 如果要学习html/css/js...的时候，可以先去[菜鸟教程](http://www.runoob.com/) 过一遍其中的知识点，当然也可去网易云课堂、慕课网、腾讯课堂找一找相关的视频教程。有时候时候看文档不思其解的时候，可以去看看视频。看文档学习速度比较快，而看视频更为直观，易于发现问题，二者各有优势。
 
-[印记中文](https://www.docschina.org/)  该网站链接了几乎所有前端主流开发技术的中文文档，如果找不到文档了，可以来这儿搜搜
+* [印记中文](https://www.docschina.org/)
+    
+    该网站链接了几乎所有前端主流开发技术的中文文档，如果找不到文档了，可以来这儿搜搜
 
-* (vue项目练习项目) (https://github.com/vuejs/awesome-vue)
+* [vue项目练习项目](https://github.com/vuejs/awesome-vue)
 
-* (react练习项目) (https://github.com/enaqx/awesome-react)
+* [react练习项目](https://github.com/enaqx/awesome-react)
 
 一般找一些框架资源时，可去github上搜索：awesome + 对应框架名 找star数最多的仓库，会是关于这个框架收集的一些好的练习项目。
 
 #### BootCDN
 
-[BootCDN](https://www.bootcdn.cn/) 在bootstrap cdn上可以搜到几乎所有的开源库，例如jquery/echarts/vue/bootstrap/swiper...，我们可以下载到本地，也可以直接引用cdn地址，毕竟，cdn的访问速度比从项目目录中引用要快
+* [BootCDN](https://www.bootcdn.cn/) 
+
+    在bootstrap cdn上可以搜到几乎所有的开源库，例如jquery/echarts/vue/bootstrap/swiper...，我们可以下载到本地，也可以直接引用cdn地址，毕竟，cdn的访问速度比从项目目录中引用要快
 
 #### 代码托管网站
 
 * [github](https://github.com) 
 
-国际开源网站，几乎所有的开源项目、框架都可以在其上找到；前端也可以利用其做个人项目的积累，github pages提供页面访问服务，我们发布上去的静态页面可以直接在线访问；我的个人博客，大多数的兴趣练习内容也都放在github上  (https://github.com/gwemz)  github提供自定义域名，例如：http://gwem.tk  在项目目录中新建一个CNAME文件，将域名解析到该仓库的ip上，你便拥有了一个对外的网站，虽然可能没有数据库，但某些时候也是非常方便。 某些时候在面试的时候，也会看github上的提交记录，看看有没有开源的优秀代码
+    国际开源网站，几乎所有的开源项目、框架都可以在其上找到；前端也可以利用其做个人项目的积累，github pages提供页面访问服务，我们发布上去的静态页面可以直接在线访问；我的个人博客，大多数的兴趣练习内容也都放在github上  (https://github.com/gwemz)  github提供自定义域名，例如：http://gwem.tk  在项目目录中新建一个CNAME文件，将域名解析到该仓库的ip上，你便拥有了一个对外的网站，虽然可能没有数据库，但某些时候也是非常方便。 某些时候在面试的时候，也会看github上的提交记录，看看有没有开源的优秀代码
 
 * [coding](https://coding.net/) 
 
-国内代码托管商，可创建私有仓库，不过比较少，如果要升级，需要开通会员。公开仓库可随意创建。访问地址在微信中会经过一个coding的中间页，不太友好。
+    国内代码托管商，可创建私有仓库，不过比较少，如果要升级，需要开通会员。公开仓库可随意创建。访问地址在微信中会经过一个coding的中间页，不太友好。
 
 * [码云gitee](https://gitee.com/) 
 
-国内代码托管网站，个人用户可创建至多1000多私有仓库，可对外部署访问。域名在微信中可访问，不会被转掉，推荐私有仓库可选择它。
+    国内代码托管网站，个人用户可创建至多1000多私有仓库，可对外部署访问。域名在微信中可访问，不会被转掉，推荐私有仓库可选择它。
 
 * [语雀](https://www.yuque.com/) 
 
-语雀并不是一个代码托管的网站，它类似于印象笔记，不过借鉴了github的产品思想，是一个编辑保存文档的轻量产品，原为阿里内部系统，后对外开放 可记录一些好的点子，或者是心得体会
+    语雀并不是一个代码托管的网站，它类似于印象笔记，不过借鉴了github的产品思想，是一个编辑保存文档的轻量产品，原为阿里内部系统，后对外开放 可记录一些好的点子，或者是心得体会
 
 #### IDE（编辑器）
 
